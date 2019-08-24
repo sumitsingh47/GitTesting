@@ -1,1 +1,7 @@
-mege master 
+<<<<<<< HEAD
+=======
+Merge Master
+
+
+aftee sumit merged with sumit
+>>>>>>> sumit
